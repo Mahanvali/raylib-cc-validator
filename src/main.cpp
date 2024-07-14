@@ -1,3 +1,7 @@
+//  Project made during summer
+// Credit to: https://github.com/karancodes/credit-card-validator for the algorithm and idea
+
+
 #include <iostream>
 #include <string>
 #include "raylib.h"
